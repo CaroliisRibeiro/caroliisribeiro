@@ -5,6 +5,10 @@ Atualmete sou estudade de Ciência da computação, e faço cursos de python, pe
 
 Sou formada em Letras e atuo como professora da rede pública 
 
+                *****
+Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
+
+
 ## Tecnologias 
 
 
@@ -25,4 +29,3 @@ Sou formada em Letras e atuo como professora da rede pública
 </div>
 
 
-Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
