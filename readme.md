@@ -19,5 +19,10 @@ Sou formada em Letras e atuo como professora da rede pública
 
 <a href="https://instagram.com/isjanebea" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+
+
 <a href="https://www.linkedin.com/in/beatrizramerindo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
