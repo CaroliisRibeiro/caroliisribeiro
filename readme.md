@@ -11,6 +11,9 @@ Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
 
 
 ## Tecnologias 
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width](https://github-readme-stats.vercel.app/api?username=caroliisribeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)= "80"/>
+
+          
 
 https://github-readme-stats.vercel.app/api?username=caroliisribeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
 
