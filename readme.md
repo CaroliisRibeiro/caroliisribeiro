@@ -9,8 +9,10 @@ Sou formada em Letras e atuo como professora da rede pública
 Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
 
 
+
 ## Tecnologias 
 
+https://github-readme-stats.vercel.app/api?username=caroliisribeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/>
 
