@@ -1,35 +1,65 @@
-# Olá! Me chamo Carol Ribeiro
-Sou iniciante Java , HTML , CSS e Javascript, UX amo gato e cahorro
+## Olá, eu sou a Carol Ribeiro! 🐱🐶
 
-Atualmete sou estudade de Ciência da computação, e faço cursos de python, pela Reprograma  e UX pela Google.
+Seja bem-vindo(a) ao meu espaço no GitHub! 💻
 
-Sou formada em Letras e atuo como professora da rede pública 
+Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnologia. ✨
 
-                *****
-Links pra  Kurtir >>>> Git emoji >>>> https://gitmoji.dev/
+🎓 Estudante de Ciência da Computação
 
+👩‍🏫 Formada em Letras e professora da rede pública
 
+🚀 Em formação com foco em Python, Java, HTML, CSS, JavaScript, UX/UI
 
-## Tecnologias 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://github-readme-stats.vercel.app/api?username=caroliisribeiro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" width= "40"/>
+🐍 Cursei Python para Analise de Dados pela Reprograma
 
+🎨 Cursei UX Design pela UX para Minas Pretas
 
+🤝 Atuante em projetos de extensão como o ColaBora, com foco em promover a carreira STEM para meninas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/>
+🌍 Mentora no Technovation Girls e participei do projeto Desperta, onde contribui com o desenvolvimento do projeto Elas na Parada, voltado à segurança das mulheres nos espaços públicos
 
-          
-## Projetos
+🏆 Premiada com o 2º lugar no Hackathon Hack Atrack por dois anos consecutivos, com soluções voltadas à inclusão e impacto social
 
-## Contatos
-
-<div>
-
-<a href="https://instagram.com/isjanebea" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+💖🐾 Amante de gatos, cachorros e boas ideias!
 
 
+## ✨ Tecnologias que estou explorando:
+ 
+Java ☕
 
-<a href="https://www.linkedin.com/in/carolisribeiro" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+HTML & CSS 🌐
+
+JavaScript ⚡
+
+Python 🐍
+
+UX/UI 🎨
+
+Git e GitHub 🧠
+
+## 💼 Projetos em destaque:
+
+🔹 https://github.com/CaroliisRibeiro/Pagina_de_Perfil_de_Usuario
+
+🔹 https://github.com/CaroliisRibeiro/angular-blog
+
+🔹https://github.com/CaroliisRibeiro/Site-_adocao_de_animais_MVP
+
+🔹https://github.com/CaroliisRibeiro/angular-buzzfeed-quizz-clone
+
+🔹 https://github.com/CaroliisRibeiro/avanade-decola-tech-2025
+
+
+## 🔗 Contatos
+
+LinkedIn
+
+E-mail: carolribeiroprof@gmail.com
+
+😺 Links pra Kurtir
+
+Gitmoji para deixar seus commits ainda mais incríveis: https://gitmoji.dev/ 🚀
+
+Obrigada por passar por aqui! Vamos juntas transformar o mundo com tecnologia e empatia. 🌍💙
 
 
