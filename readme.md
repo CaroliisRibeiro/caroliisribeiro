@@ -4,6 +4,8 @@ Seja bem-vindo(a) ao meu espaço no GitHub! 💻
 
 Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnologia. ✨
 
+---
+
 🎓 Estudante de Ciência da Computação
 
 👩‍🏫 Formada em Letras e professora da rede pública
@@ -22,6 +24,7 @@ Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnol
 
 💖🐾 Amante de gatos, cachorros e boas ideias!
 
+---
 
 ## ✨ Tecnologias que estou explorando:
  
@@ -37,6 +40,8 @@ UX/UI 🎨
 
 Git e GitHub 🧠
 
+---
+
 ## 💼 Projetos em destaque:
 
 🔹 https://github.com/CaroliisRibeiro/Pagina_de_Perfil_de_Usuario
@@ -49,6 +54,7 @@ Git e GitHub 🧠
 
 🔹 https://github.com/CaroliisRibeiro/avanade-decola-tech-2025
 
+---
 
 ## 🔗 Contatos
 
