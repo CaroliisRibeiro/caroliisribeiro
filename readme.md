@@ -10,7 +10,7 @@ Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnol
 
 🚀 Em formação com foco em Python, Java, HTML, CSS, JavaScript, UX/UI
 
-🐍 Curso Python para Analise de Dados pela Reprograma
+🐍 Curso Python para Analise de Dados pela REPROGRAMA
 
 🎨 Curso UX Design pela UX para Minas Pretas
 
