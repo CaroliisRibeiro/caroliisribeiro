@@ -10,9 +10,9 @@ Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnol
 
 🚀 Em formação com foco em Python, Java, HTML, CSS, JavaScript, UX/UI
 
-🐍 Cursei Python para Analise de Dados pela Reprograma
+🐍 Curso Python para Analise de Dados pela Reprograma
 
-🎨 Cursei UX Design pela UX para Minas Pretas
+🎨 Curso UX Design pela UX para Minas Pretas
 
 🤝 Atuante em projetos de extensão como o ColaBora, com foco em promover a carreira STEM para meninas
 
